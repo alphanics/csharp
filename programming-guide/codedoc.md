@@ -25,33 +25,33 @@ public class SomeClass
 
 ### \<returns\>
 
-### <value>
+### \<value\>
 
-### <example>
+### \<example\>
 
-### <para>
+### \<para\>
 
-### <c>
+### \<c\>
 
-### <exception>
+### \<exception\>
 
-### <see>
+### \<see\>
 
-### <seealso>
+### \<seealso\>
 
-### <param>
+### \<param\>
 
-### <typeparam>
+### \<typeparam\>
 
-### <paramref>
+### \<paramref\>
 
-### <typeparamref>
+### \<typeparamref\>
 
-### <list>
+### \<list\>
 
-### <inheritdoc>
+### \<inheritdoc\>
 
-### <include>
+### \<include\>
 
 ## 사용자 정의 태그
 
