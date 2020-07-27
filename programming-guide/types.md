@@ -37,7 +37,6 @@
 |ulong|	System.UInt64|
 |short|	System.Int16|
 |ushort|	System.UInt16|
-|------------------|------------------|
 
 참조형식
 * class
@@ -48,4 +47,4 @@
 |object|	System.Object|
 |string|	System.String|
 |dynamic|	System.Object|
-|------------------|------------------|
+
