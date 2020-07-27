@@ -58,8 +58,8 @@ public class SomeClass
 ## 권장사항
 * 일관성 보장
 * IntelliSense에는 <summary> 태그의 내용이 필요함
-* 컴파일러에서 <exception>, <include>, <param>, <see>, <seealso> 및 <typeparam> 태그 구문 확인함.
+* 컴파일러에서 \<exception\>, \<include\>, \<param\>, \<see\>, \<seealso\> 및 \<typeparam\> 태그 구문 확인함.
 
 ## 참조
-* XML 문서 주석(C# 프로그래밍 가이드)(https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/xmldoc/)
-* 문서 주석에 대한 권장 태그(C# 프로그래밍 가이드)(https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/xmldoc/recommended-tags-for-documentation-comments)
+* [XML 문서 주석(C# 프로그래밍 가이드)](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/xmldoc/)
+* [문서 주석에 대한 권장 태그(C# 프로그래밍 가이드)](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/xmldoc/recommended-tags-for-documentation-comments)
