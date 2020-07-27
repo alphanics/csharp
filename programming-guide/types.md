@@ -22,7 +22,7 @@
 * 구조체
 * 튜플
 * Nullable
-
+|------------------|------------------|
 |C# 형식 키워드|	.NET 형식|
 |bool|	System.Boolean|
 |byte|	System.Byte|
@@ -37,12 +37,15 @@
 |ulong|	System.UInt64|
 |short|	System.Int16|
 |ushort|	System.UInt16|
+|------------------|------------------|
 
 참조형식
 * class
 * interface
 * nullable
+|------------------|------------------|
 |C# 형식 키워드|	.NET 형식|
 |object|	System.Object|
 |string|	System.String|
 |dynamic|	System.Object|
+|------------------|------------------|
