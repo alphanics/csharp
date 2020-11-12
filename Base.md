@@ -13,12 +13,13 @@ RD /S /Q "$(TargetDir)\ru"
 
 ## 위와 같이 처리시 Dll참조 경로를 app.conifg에도 참조 경로 관련 구문 추가해줘야함
 
--- xml
+```xml
   <runtime>
     <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
       <probing privatePath="dll" />
     </assemblyBinding>
   </runtime>
+```
 
 
 
